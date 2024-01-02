@@ -1,0 +1,7 @@
+Hardwawre:
+	- Atmega: ok
+	- L298: ok
+Software:
+	- Output voltage: ok
+	- PWM: work for > 50% dc
+	- INT0: fail
